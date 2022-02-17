@@ -1,3 +1,3 @@
 module videos
 
-go 1.17.7
+go 1.17
